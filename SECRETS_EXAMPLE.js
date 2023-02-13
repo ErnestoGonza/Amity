@@ -1,7 +1,7 @@
 const DB_PASSWORD = '';
 const GOOGLE_CLIENT_ID = '';
 const GOOGLE_CLIENT_SECRET = '';
-const SESSION_SECRET = '';
+const SESSION_SECRET = ''; //this can literally be any string you want
 const DEBUG = false;
 const PG_URI = ``;
 
